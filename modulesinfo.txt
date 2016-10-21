@@ -1,0 +1,11 @@
+
+
+To know about the functions that a module contain...
+
+first import the module itself.... eg import math
+
+dir(math)
+gives the list of all the functions available in the "math' module
+
+help(math)  or  help(math.ceil)  gives you the description about 
+the working of various functions in the math module
